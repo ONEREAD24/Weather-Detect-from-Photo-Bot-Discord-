@@ -1,0 +1,1 @@
+# Weather-Detect-from-Photo-Bot-Discord-
