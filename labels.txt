@@ -1,0 +1,4 @@
+0 Cloudy weather
+1 Sunny weather
+2 Rainy weather
+3 Windy weather
